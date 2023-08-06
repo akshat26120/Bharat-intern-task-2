@@ -8,7 +8,7 @@
     letter-spacing: 1px;
 }
 body{
-    background-color: #ff6565;
+    background-color: #ff9999;
 }
 .tool-container{ 
     display: flex;
@@ -35,7 +35,7 @@ body{
     width: 50%;
     padding: 10px;
     margin: 5px;
-    background: rgba(181, 183, 255, 0.703);
+    background: rgba(193, 195, 255, 0.703);
     border-radius: 10px;
     box-shadow: rgb(0, 0, 0) 0px 7px 10px, rgba(0, 0, 0, 0.23) 0px 5px 8px;
 }
